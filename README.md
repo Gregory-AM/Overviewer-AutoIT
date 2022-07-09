@@ -1,4 +1,4 @@
-# Overviewer-AutoIT
+# Overviewer AutoIT
 This repo was made specifically for a software that I am currently developing.  
 The files are not your typical AutoIT extensions, they are A3X.  
 They have specific functions within them that are only triggered by the GUI that downloads them from here.  
